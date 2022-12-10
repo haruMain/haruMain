@@ -25,7 +25,9 @@
 <h3>My GitHub😊</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruMain&theme=buefy&show_icons=true)
-
-
-  
-
+<details>
+  <summary><b>🍭&nbsp;&nbsp;Blog&nbsp;&nbsp;posts</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  </a>
+</details>
