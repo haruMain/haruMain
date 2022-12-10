@@ -26,6 +26,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruMain&theme=buefy&show_icons=true)
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruMain&layout=compact&theme=tokyonight)
+
