@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div align=center>
+<!--<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eunji%20Github!&fontSize=90" />	
-</div><br><br>
+</div><br><br>--!>
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
