@@ -43,7 +43,8 @@
 <div align=center>
 <h3>My GitHub😊</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruMain&theme=buefy&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=haruMain&show_icons=true">
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruMain&layout=compact">
  
@@ -55,5 +56,4 @@
   </a>
 </details>
 	</div>
-
 
